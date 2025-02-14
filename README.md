@@ -9,4 +9,5 @@ This repository contains implementations and experiments with various machine le
 3. [Regression](Regression.ipynb)
 4. [Comparing Learners](4.EvaluationAndComparisonOfLearners.ipynb)
 5. [Evaluating Classifiers](5_Evaluating_Classifiers.ipynb)
+6. [Evaluating Regressors](6_EvaluatingRegressors.ipynb)
 
